@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @CelsusK
-- 👀 I’m interested in ...soccer and tech
-- 🌱 I’m currently learning ...software engineering 
-- 💞️ I’m looking to collaborate on ...projects that help solve world problems 
+- 👋 I am Cassian
+- 🌱 I’m currently learning software engineering at ALX 
 - 📫 How to reach me ...0759970769 or kiragucassian@gmail.com 
 
 <!---
