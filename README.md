@@ -1,5 +1,5 @@
-- 👋 I am Cassian
-- 🌱 I’m currently learning software engineering at ALX 
+- 👋 I am Cassian Kiragu
+- Ready to collaborate on Projects.
 - 📫 How to reach me ...0759970769 or kiragucassian@gmail.com 
 
 <!---
